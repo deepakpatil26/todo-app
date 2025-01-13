@@ -8,6 +8,14 @@ A feature-rich todo application built with Next.js, TypeScript, and Tailwind CSS
 
 > Experience the app in action on our Vercel deployment!
 
+## 📸 Screenshots
+
+### ⭐ Light Mode
+![Todo App Light Mode](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/todo-light-mode-OqTYgiRP7OzSfePgZAcuaGCd3UZfOK.png)
+
+### 🌙 Dark Mode
+![Todo App Dark Mode](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/todo-dark-mode-TgQdOYFudmlClq0zWufj1zpm3gecoi.png)
+
 ---
 
 ## Features
