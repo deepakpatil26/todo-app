@@ -2,6 +2,14 @@
 
 A feature-rich todo application built with Next.js, TypeScript, and Tailwind CSS.
 
+## 🚀 Live Demo
+
+### ✨ [View Live Deployment](https://zqqj9mw1xvfasidn.vercel.app/) ✨
+
+> Experience the app in action on our Vercel deployment!
+
+---
+
 ## Features
 
 - 🌓 Dark/Light mode support
@@ -43,6 +51,20 @@ npm run dev
 ```
 
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Deployment
+
+We use Vercel for deployment. The app is automatically deployed on every push to the main branch.
+
+### 📦 Deploy Your Own
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-username%2Ftodo-app)
+
+Follow these steps to deploy:
+1. Click the "Deploy with Vercel" button above
+2. Connect your GitHub repository
+3. Configure your deployment settings
+4. 🎉 Your app will be live in minutes!
 
 ## Project Structure
 
